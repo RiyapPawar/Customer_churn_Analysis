@@ -53,7 +53,7 @@ The project helps stakeholders understand customer behavior, monitor churn trend
 
 ## 📷 Dashboard Preview
 
-![Customer Churn Dashboard](
+![Customer Churn Dashboard](Dashboard.png)
 
 ## 📁 Files Included
 
